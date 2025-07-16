@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nemeno\\ASPNET\\tutorial\\BlazorApp\\BlazorApp\\BlazorApp.csproj": {}
+    "c:\\Nemeno\\ASPNET\\tutorial\\BlazorApp\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "C:\\Nemeno\\ASPNET\\tutorial\\BlazorApp\\BlazorApp\\BlazorApp.csproj": {
+    "c:\\Nemeno\\ASPNET\\tutorial\\BlazorApp\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nemeno\\ASPNET\\tutorial\\BlazorApp\\BlazorApp\\BlazorApp.csproj",
+        "projectUniqueName": "c:\\Nemeno\\ASPNET\\tutorial\\BlazorApp\\BlazorApp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "C:\\Nemeno\\ASPNET\\tutorial\\BlazorApp\\BlazorApp\\BlazorApp.csproj",
+        "projectPath": "c:\\Nemeno\\ASPNET\\tutorial\\BlazorApp\\BlazorApp\\BlazorApp.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Nemeno\\ASPNET\\tutorial\\BlazorApp\\BlazorApp\\obj\\",
+        "outputPath": "c:\\Nemeno\\ASPNET\\tutorial\\BlazorApp\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config"
